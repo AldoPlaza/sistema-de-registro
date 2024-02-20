@@ -2,3 +2,5 @@
 - Estado del proyecto en construcción 
 para ejecitar el sistema debed poner:
 --- npm install react ---
+
+Sistema de registro 2
